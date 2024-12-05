@@ -281,6 +281,7 @@ void updateLED(float temp) {
     LEDRing.setPixelColor(0, LEDRing.Color(255, 0, 0)); // Red
   }
   LEDRing.show();
-  Serial.println("LED Update");
+  //for debugging
+  //Serial.println("LED Update");
  
 }
