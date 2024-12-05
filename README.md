@@ -60,3 +60,6 @@ This project turns an ESP32 microcontroller into a comprehensive weather station
 
 4. 🌍 **Change Configuration Anytime**  
    You can always access the web interface later to update Wi-Fi credentials or change the city and country settings without re-uploading the code.
+
+5. 💻 **Access the Web Interface**  
+   After setup, you can access the web interface by entering the device's IP address in a web browser. The IP address can be found in the Serial Monitor (it will be printed after the ESP32 successfully connects to Wi-Fi) or by checking your router's connected devices. The web interface runs on **port 8080**, so the URL format will be: http://[ESP32_IP_ADDRESS]:8080
