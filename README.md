@@ -60,11 +60,3 @@ This project turns an ESP32 microcontroller into a comprehensive weather station
 
 4. 🌍 **Change Configuration Anytime**  
    You can always access the web interface later to update Wi-Fi credentials or change the city and country settings without re-uploading the code.
-
-### Example Configuration
-
-To fetch weather data for Berlin, Germany:
-
-- **City**: Berlin
-- **Country Code**: de
-- Example API Request:
